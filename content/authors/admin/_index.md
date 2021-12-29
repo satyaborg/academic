@@ -45,7 +45,7 @@ education:
     - course: MDS (Master of Data Science)
       institution: Monash University
       year: 2019
-    - year: 2011
+    - year: 2015
       institution: Nagpur University
       course: B.Eng. in Mechanical Engineering
 email: satya.borg@gmail.com
