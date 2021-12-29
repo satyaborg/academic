@@ -8,7 +8,7 @@ weight: 0
 title: About Me
 design:
   background:
-    image: index.png
+    image: ""
 ---
 👋🏼 Hi there wanderer\
 \
