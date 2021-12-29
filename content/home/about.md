@@ -8,7 +8,7 @@ weight: 30
 title: About Me
 design:
   background:
-    image: ""
+    image: index.png
     image_darken: 0.4
 ---
 I am deeply passionate about programming, building things and always up for exchanging ideas and indulging in a few thought bubbles. Artificial intelligence fascinates me: the unexplored recesses of human creativity, the augmentation of our collective intelligence, a universal problem solver in some sense and its implications (ethical or otherwise). The road is long and winding, but I hope it will provide a window into understanding our own cognition along the way.\
