@@ -1,77 +1,63 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Satya Borgohain
+role: Research Fellow
+avatar_filename: index.png
+bio: My research interests include distributed robotics, mobile computing and
+  programmable matter.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Machine Learning
+  - Neuro-inspired algorithms
+  - Perception
+  - Multimodal deep learning
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - display:
+      header: false
+    link: https://twitter.com/satyaborg
+    icon_pack: fas
+    label: Twitter
+    icon: twitter
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/satyaborg
+    icon_pack: fas
+    label: LinkedIn
+    icon: linkedin
+  - display:
+      header: false
+    link: https://github.com/satyaborg
+    icon_pack: fas
+    label: Github
+    icon: github
+  - display:
+      header: false
+    link: https://scholar.google.com/citations?user=w5LGcvkAAAAJ&hl=en
+    icon_pack: fas
+    icon: google-scholar
+    label: Google Scholar
+organizations:
+  - name: Monash University
+    url: https://research.monash.edu/en/persons/satya-borgohain
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
+    - year: ""
+      institution: Nagpur University
+      course: B.Eng. in Mechanical Engineering
+    - course: MDS (Master of Data Science)
+      institution: Monash University
+      year: ""
+email: satya.borg@gmail.com
+superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am deeply passionate about programming, building things and always up for exchanging ideas and indulging in a few thought bubbles. Artificial intelligence fascinates me: the unexplored recesses of human creativity, the augmentation of our collective intelligence, a universal problem solver in some sense and its implications (ethical or otherwise). The road is long and winding, but I hope it will provide a window into understanding our own cognition along the way.\
+\
+To that end, I work with machine/deep learning paradigms and am currently a Research Fellow at [Monash University](https://research.monash.edu/en/persons/satya-borgohain). In terms of research, I work in the areas of Interpretable/Explainable AI, Natural Language Processing, Bio-plausible AI, Sparsity, Bayesian Neural Networks among others. I studied Mechanical Engineering and subsequently Data Science for my Bachelors and Masters respectively. In my prior life, I built and shipped predictive models to production.\
+\
+In my spare time, you might find me playing the guitar, video games, listening to a plethora of music, reading or occasionally most likely [sketching](https://www.satyaborg.com/artworks). I also love hiking and exploring nature in general which is something I wish I have more time for in the future!\
+\
+If you would like to chat or collaborate please feel free to [shoot me an email](mailto:satya.borg@gmail.com). Where there are synergies, creativity oft follows.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
