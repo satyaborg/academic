@@ -18,7 +18,7 @@ social:
     link: https://twitter.com/satyaborg
     icon_pack: fas
     label: Twitter
-    icon: twitter
+    icon: fa-twitter
   - display:
       header: false
     link: https://www.linkedin.com/in/satyaborg
