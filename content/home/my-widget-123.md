@@ -1,8 +1,8 @@
 ---
 widget: about
-widget_id: my-widget-123
+widget_id: about-me
 headless: true
-weight: 10
+weight: 1
 title: About Me
 active: true
 design:
